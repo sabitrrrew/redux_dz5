@@ -1,0 +1,5 @@
+export const types = {
+    PRELOADER_ON: "PRELOADER_ON",
+    PRELOADER_OFF: "PRELOADER_OFF",
+    USER_NAME: "USER_NAME",
+}
